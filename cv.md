@@ -40,3 +40,7 @@
   * Comfort Staircases (Sales Manager 2022/02 - 2023/08)
   * OOO "NOVATOR" (Lawyer 2021/03 - 2022/01)
 
+## Languages
+
+  * Russian - native speaker 
+  * English - B1
