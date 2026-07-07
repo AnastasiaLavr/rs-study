@@ -14,6 +14,15 @@
 ## Skills
 
   * HTML
-  * CSS/SASS
-  * JavaScript (Basic)
+  * CSS
+  * JS(Basic)
   * Git
+
+## Code example
+
+    function sum(a, b) {
+    return a + b;
+    }
+
+    let result = sum(1, 2);
+    alert( result );
